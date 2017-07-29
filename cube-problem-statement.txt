@@ -12,3 +12,6 @@ Note:
 Use functional programing languages like purescript to solve this problem. 
 
 Here is a demo video for reference https://youtu.be/Cf8rhrEyzYQ
+
+
+To execute, download the repo as zip to your computer, unzip it and run the Cube.html in yout browser :)
