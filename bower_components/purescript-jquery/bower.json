@@ -1,0 +1,30 @@
+{
+  "name": "purescript-jquery",
+  "homepage": "https://github.com/purescript/purescript-jquery",
+  "description": "Type declarations for jQuery",
+  "keywords": [
+    "purescript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "bower.json",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paf31/purescript-jquery.git"
+  },
+  "dependencies": {
+    "purescript-dom": "^4.0.0",
+    "purescript-eff": "^3.0.0",
+    "purescript-foreign": "^4.0.0"
+  },
+  "devDependencies": {
+    "purescript-console": "^3.0.0"
+  }
+}
